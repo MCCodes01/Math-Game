@@ -1,11 +1,3 @@
-////////////////////////////////////////////
-//Michael Cunningham
-//Unit 6
-//Cis 2541 - Net01
-//Intro to C++ Programming Language
-//Mohammad Morovarti
-///////////////////////////////////////////
-
 #include <iostream>
 
 #include <ctime>
